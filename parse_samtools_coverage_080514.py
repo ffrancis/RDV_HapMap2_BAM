@@ -1,5 +1,4 @@
 # Parse samtool mpileup output to calculate coverage per specified bins
-# Change x in (kmer_size = x) to set the desired bin width.
 # Make sure there are no duplicates in the mpileup output (with respect to coordinates)
 
 #import re
